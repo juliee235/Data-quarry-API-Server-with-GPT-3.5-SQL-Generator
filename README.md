@@ -1,7 +1,11 @@
 # Data query with GPT3.5 SQL Generator
 During my internship at Krungthai Bank, I embarked on a project aimed at enhancing data accessibility and query capabilities within the organization. The primary objective of this initiative was to empower all members of the organization, irrespective of their background in data engineering or SQL proficiency, to efficiently access and extract insights from the bank's vast data repositories
 
-![ภาพ](https://github.com/juliee235/Data-quarry-API-Server-with-GPT-3.5-SQL-Generator/assets/138569824/eefc7af6-bf99-4010-b5cb-9548d987b0f4)
+## Key features of the project included:
+1. User-Friendly Interface
+2. Efficient SQL generator
+![ภาพ](https://github.com/juliee235/Data-quarry-API-Server-with-GPT-3.5-SQL-Generator/assets/138569824/402e3aec-dc37-4172-92ca-f249f0d84f79)
+
 
 ## Getting Started with Create React App
 
