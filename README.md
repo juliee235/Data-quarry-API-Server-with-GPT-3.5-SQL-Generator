@@ -11,7 +11,17 @@ During my internship at Krungthai Bank, I embarked on a project aimed at enhanci
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 
+## Method
+1. Create React app using command npx create-react-app my-app
+2. Build the app interface and config the layout on index.ts
+3. 
+
+
+
+
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
