@@ -4,7 +4,8 @@ During my internship at Krungthai Bank, I embarked on a project aimed at enhanci
 ## Key features of the project included:
 1. User-Friendly Interface
 2. Efficient SQL generator
-![ภาพ](https://github.com/juliee235/Data-quarry-API-Server-with-GPT-3.5-SQL-Generator/assets/138569824/402e3aec-dc37-4172-92ca-f249f0d84f79)
+![ภาพ](https://github.com/juliee235/Data-quarry-API-Server-with-GPT-3.5-SQL-Generator/assets/138569824/07999065-5937-4c87-9a5d-31dd2d844043)
+
 
 
 ## Getting Started with Create React App
