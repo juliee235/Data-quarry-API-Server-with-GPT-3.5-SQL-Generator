@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Method
 1. Create React app using command npx create-react-app my-app
-2. Build the app interface and config the layout on index.ts
+2. Build the app interface and config the layout on @index.ts
 3. 
 
 
